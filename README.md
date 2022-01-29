@@ -6,7 +6,7 @@ Hi, I'm Shivam 👋🏾
 - Linux Lover👩‍🌾
 - Forever Student 👨‍🎓
 
-SRE/DevOps Engineer with strong computer science fundamentals.
+DevOps Engineer with strong computer science fundamentals.
 
 I like wearing multiple hats right from exposing infrastructure as API, automating development/backend processes, Linux administration, Monitoring and debugging system processes to NLP/ML engineering
 
