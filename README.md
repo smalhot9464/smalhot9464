@@ -2,6 +2,7 @@
 Hi, I'm Shivam 👋🏾  
 - A DevOps Engineer 💻 
 - SRE 👨‍💻
+- ML Ops
 - Cloud Enthusiastic 👨‍🚀
 - Linux Lover👩‍🌾
 - Forever Student 👨‍🎓
